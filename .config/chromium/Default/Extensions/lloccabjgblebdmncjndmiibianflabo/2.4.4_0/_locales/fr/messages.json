@@ -1,0 +1,65 @@
+{
+   "addLink": {
+      "message": "Ajouter le lien à la liste de lecture"
+   },
+   "addPage": {
+      "message": "Ajouter la page à la liste de lecture"
+   },
+   "advancedOptions": {
+      "message": "Options avancées"
+   },
+   "animation": {
+      "message": "Activer l'animation:"
+   },
+   "appDesc": {
+      "message": "Cette extension sauvegarde une liste de liens vers des pages a lire plus ulterieurement."
+   },
+   "appName": {
+      "message": "Liste de Lecture"
+   },
+   "backup": {
+      "message": "Sauvegarder:"
+   },
+   "clearData": {
+      "message": "Effacer Liste de Lecture"
+   },
+   "confirmMsg": {
+      "message": "Vous êtes sur le point de supprimer tout le contenu de la liste de lecture. Êtes-vous sûr?"
+   },
+   "context": {
+      "message": "Afficher dans le menu contextuel:"
+   },
+   "dark": {
+      "message": "foncé"
+   },
+   "deleteAll": {
+      "message": "Supprimer tout!"
+   },
+   "export": {
+      "message": "Exportation"
+   },
+   "goBack": {
+      "message": "Retourner"
+   },
+   "import": {
+      "message": "Importer"
+   },
+   "light": {
+      "message": "lumière"
+   },
+   "openNewTab": {
+      "message": "Ouvrir un lien dans un nouvel onglet:"
+   },
+   "optionsTitle": {
+      "message": "Options de la liste de lecture"
+   },
+   "pageActionOption": {
+      "message": "Afficher dans la barre d'adresse:"
+   },
+   "search": {
+      "message": "Recherche"
+   },
+   "theme": {
+      "message": "Thème:"
+   }
+}

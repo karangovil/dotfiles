@@ -1,0 +1,36 @@
+2019/08/24-21:01:10.836 560 Reusing MANIFEST Session Storage/MANIFEST-000001
+2019/08/24-21:01:10.836 560 Recovering log #227
+2019/08/24-21:01:10.837 560 Reusing old log Session Storage/000227.log 
+2019/08/24-23:28:28.296 2bda Level-0 table #231: started
+2019/08/24-23:28:28.300 2bda Level-0 table #231: 19275 bytes OK
+2019/08/24-23:28:28.303 2bda Delete type=0 #227
+2019/08/24-23:28:28.304 2bf2 Compacting 4@0 + 1@1 files
+2019/08/24-23:28:28.320 2bf2 Generated table #232@0: 2951 keys, 173396 bytes
+2019/08/24-23:28:28.320 2bf2 Compacted 4@0 + 1@1 files => 173396 bytes
+2019/08/24-23:28:28.322 2bf2 compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/08/24-23:28:28.323 2bf2 Delete type=2 #231
+2019/08/24-23:28:28.323 2bf2 Delete type=2 #223
+2019/08/24-23:28:28.324 2bf2 Delete type=2 #220
+2019/08/24-23:28:28.325 2bf2 Delete type=2 #228
+2019/08/24-23:28:28.325 2bf2 Delete type=2 #225
+2019/08/24-23:35:15.366 2cee Level-0 table #234: started
+2019/08/24-23:35:15.370 2cee Level-0 table #234: 15727 bytes OK
+2019/08/24-23:35:15.373 2cee Delete type=0 #230
+2019/08/24-23:37:36.119 2cee Level-0 table #236: started
+2019/08/24-23:37:36.127 2cee Level-0 table #236: 21282 bytes OK
+2019/08/24-23:37:36.129 2cee Delete type=0 #233
+2019/08/24-23:38:59.130 2cee Level-0 table #238: started
+2019/08/24-23:38:59.132 2cee Level-0 table #238: 16222 bytes OK
+2019/08/24-23:38:59.134 2cee Delete type=0 #235
+2019/08/24-23:48:18.598 2e95 Level-0 table #240: started
+2019/08/24-23:48:18.602 2e95 Level-0 table #240: 19502 bytes OK
+2019/08/24-23:48:18.607 2e95 Delete type=0 #237
+2019/08/24-23:48:18.608 2e16 Compacting 4@0 + 1@1 files
+2019/08/24-23:48:18.625 2e16 Generated table #241@0: 3006 keys, 206554 bytes
+2019/08/24-23:48:18.625 2e16 Compacted 4@0 + 1@1 files => 206554 bytes
+2019/08/24-23:48:18.626 2e16 compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/08/24-23:48:18.628 2e16 Delete type=2 #234
+2019/08/24-23:48:18.628 2e16 Delete type=2 #238
+2019/08/24-23:48:18.628 2e16 Delete type=2 #236
+2019/08/24-23:48:18.629 2e16 Delete type=2 #240
+2019/08/24-23:48:18.629 2e16 Delete type=2 #232

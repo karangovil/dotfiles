@@ -1,0 +1,82 @@
+{
+   "addLink": {
+      "description": "The link message in the context menu.",
+      "message": "Engadir unha ligazón a Reading List"
+   },
+   "addPage": {
+      "description": "The message in the context menu.",
+      "message": "Engadir unha páxina a Reading List"
+   },
+   "advancedOptions": {
+      "description": "The label for the advanced options dropdown",
+      "message": "Axustes avanazados"
+   },
+   "animation": {
+      "description": "The label for the animation option.",
+      "message": "Habilitar animación:"
+   },
+   "appDesc": {
+      "description": "A descrición da aplicación, mostrada na web store.",
+      "message": "Esta extensión garda unha lista das ligazóns a páxinas para ler máis tarde."
+   },
+   "appName": {
+      "description": "O título da extensión, mostrado na web store e no cabezallo do emerxente.",
+      "message": "Reading List"
+   },
+   "backup": {
+      "message": "Respaldo:"
+   },
+   "clearData": {
+      "description": "The label for the button to clear all the reading list items",
+      "message": "Limpar Reading List"
+   },
+   "confirmMsg": {
+      "description": "Message to ensure user knows they are deleting all app data",
+      "message": "Vai borrar todo o contido la lista de lectura. Está seguro?"
+   },
+   "context": {
+      "description": "The label for the context option.",
+      "message": "Mostrar no menú contextual:"
+   },
+   "dark": {
+      "description": "The name for the dark theme.",
+      "message": "Oscuro"
+   },
+   "deleteAll": {
+      "description": "Confirm message on clearing data",
+      "message": "Quita todo!"
+   },
+   "export": {
+      "message": "Exportar"
+   },
+   "goBack": {
+      "description": "Cancel message on clearning data",
+      "message": "Atrás"
+   },
+   "import": {
+      "message": "Importar"
+   },
+   "light": {
+      "description": "The name for the light theme.",
+      "message": "Claro"
+   },
+   "openNewTab": {
+      "description": "Label for the option to open a new tab when a link is clicked",
+      "message": "Abrir ligazón en nova lapela:"
+   },
+   "optionsTitle": {
+      "description": "The title of the application's options menu.",
+      "message": "Axustes de Reading List"
+   },
+   "pageActionOption": {
+      "message": "Amosar na barra de enderezos:"
+   },
+   "search": {
+      "description": "A etiqueta da caixa de busca.",
+      "message": "Busca"
+   },
+   "theme": {
+      "description": "The label for the theme option.",
+      "message": "Decorado:"
+   }
+}

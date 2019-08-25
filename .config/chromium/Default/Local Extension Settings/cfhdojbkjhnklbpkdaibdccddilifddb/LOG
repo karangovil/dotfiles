@@ -1,0 +1,48 @@
+2019/08/24-21:01:11.052 4b5 Reusing MANIFEST /home/karan/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
+2019/08/24-21:01:11.053 4b5 Recovering log #106
+2019/08/24-21:01:11.104 4b5 Level-0 table #111: started
+2019/08/24-21:01:11.172 4b5 Level-0 table #111: 4383074 bytes OK
+2019/08/24-21:01:11.175 4b5 Delete type=0 #106
+2019/08/24-21:02:11.906 801 Level-0 table #114: started
+2019/08/24-21:02:11.956 801 Level-0 table #114: 4382779 bytes OK
+2019/08/24-21:02:11.958 801 Delete type=0 #112
+2019/08/24-21:16:33.030 801 Level-0 table #116: started
+2019/08/24-21:16:33.118 801 Level-0 table #116: 4383037 bytes OK
+2019/08/24-21:16:33.121 801 Delete type=0 #113
+2019/08/24-22:02:12.266 801 Level-0 table #118: started
+2019/08/24-22:02:12.332 801 Level-0 table #118: 4382850 bytes OK
+2019/08/24-22:02:12.334 801 Delete type=0 #115
+2019/08/24-22:02:12.337 801 Compacting 4@0 + 2@1 files
+2019/08/24-22:02:12.475 801 Generated table #119@0: 1 keys, 4382777 bytes
+2019/08/24-22:02:12.478 801 Generated table #120@0: 2 keys, 355 bytes
+2019/08/24-22:02:12.478 801 Compacted 4@0 + 2@1 files => 4383132 bytes
+2019/08/24-22:02:12.480 801 compacted to: files[ 0 2 1 0 0 0 0 ]
+2019/08/24-22:02:12.480 801 Delete type=2 #109
+2019/08/24-22:02:12.480 801 Delete type=2 #116
+2019/08/24-22:02:12.481 801 Delete type=2 #111
+2019/08/24-22:02:12.481 801 Delete type=2 #114
+2019/08/24-22:02:12.482 801 Delete type=2 #118
+2019/08/24-22:02:12.482 801 Delete type=2 #108
+2019/08/24-22:02:15.357 801 Level-0 table #122: started
+2019/08/24-22:02:15.422 801 Level-0 table #122: 4383030 bytes OK
+2019/08/24-22:02:15.424 801 Delete type=0 #117
+2019/08/24-22:14:49.995 801 Level-0 table #124: started
+2019/08/24-22:14:50.068 801 Level-0 table #124: 4382764 bytes OK
+2019/08/24-22:14:50.071 801 Delete type=0 #121
+2019/08/24-23:02:12.398 801 Level-0 table #126: started
+2019/08/24-23:02:12.470 801 Level-0 table #126: 4382896 bytes OK
+2019/08/24-23:02:12.472 801 Delete type=0 #123
+2019/08/24-23:28:15.376 801 Level-0 table #128: started
+2019/08/24-23:28:15.458 801 Level-0 table #128: 4383035 bytes OK
+2019/08/24-23:28:15.461 801 Delete type=0 #125
+2019/08/24-23:28:15.463 801 Compacting 4@0 + 2@1 files
+2019/08/24-23:28:15.595 801 Generated table #129@0: 1 keys, 4382777 bytes
+2019/08/24-23:28:15.598 801 Generated table #130@0: 2 keys, 355 bytes
+2019/08/24-23:28:15.598 801 Compacted 4@0 + 2@1 files => 4383132 bytes
+2019/08/24-23:28:15.600 801 compacted to: files[ 0 2 1 0 0 0 0 ]
+2019/08/24-23:28:15.600 801 Delete type=2 #128
+2019/08/24-23:28:15.601 801 Delete type=2 #126
+2019/08/24-23:28:15.602 801 Delete type=2 #119
+2019/08/24-23:28:15.602 801 Delete type=2 #122
+2019/08/24-23:28:15.603 801 Delete type=2 #124
+2019/08/24-23:28:15.604 801 Delete type=2 #120

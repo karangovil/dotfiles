@@ -1,0 +1,65 @@
+{
+   "addLink": {
+      "message": "Aggiungere il link all'Elenco Lettura"
+   },
+   "addPage": {
+      "message": "Aggiungere la pagina all'Elenco Lettura"
+   },
+   "advancedOptions": {
+      "message": "Opzioni avanzate"
+   },
+   "animation": {
+      "message": "Attivare l'animazione:"
+   },
+   "appDesc": {
+      "message": "Questa estensione risparmia una lista di pagine web per leggere più tarde."
+   },
+   "appName": {
+      "message": "Elenco Lettura"
+   },
+   "backup": {
+      "message": "Backup:"
+   },
+   "clearData": {
+      "message": "Ripristinare Elenco Lettura"
+   },
+   "confirmMsg": {
+      "message": "Stai per eliminare tutti i contenuti della lista di lettura. Sei sicuro?"
+   },
+   "context": {
+      "message": "Mostrare nel menu di contesto:"
+   },
+   "dark": {
+      "message": "scuro"
+   },
+   "deleteAll": {
+      "message": "Eliminare tutto!"
+   },
+   "export": {
+      "message": "Esportare"
+   },
+   "goBack": {
+      "message": "Tornare indietro"
+   },
+   "import": {
+      "message": "Importare"
+   },
+   "light": {
+      "message": "luce"
+   },
+   "openNewTab": {
+      "message": "Aprire il link in una nuova scheda:"
+   },
+   "optionsTitle": {
+      "message": "Opzioni dell'Elenco Lettura"
+   },
+   "pageActionOption": {
+      "message": "Mostra nella barra degli indirizzi:"
+   },
+   "search": {
+      "message": "Cerca"
+   },
+   "theme": {
+      "message": "Tema:"
+   }
+}
