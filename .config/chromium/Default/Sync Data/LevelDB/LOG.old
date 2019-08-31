@@ -1,6 +1,0 @@
-2019/08/24-20:58:03.613 4c4 Reusing MANIFEST /home/karan/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
-2019/08/24-20:58:03.614 4c4 Recovering log #38
-2019/08/24-20:58:03.616 4c4 Reusing old log /home/karan/.config/chromium/Default/Sync Data/LevelDB/000038.log 
-2019/08/24-20:59:05.854 7b9 Level-0 table #43: started
-2019/08/24-20:59:05.856 7b9 Level-0 table #43: 128166 bytes OK
-2019/08/24-20:59:05.858 7b9 Delete type=0 #38
